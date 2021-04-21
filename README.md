@@ -22,7 +22,7 @@
 - DNN 사용
 
 ## 코드
-
+['./poker_main.py'](./poker_main.py)
 
 
 ## 참고 자료
